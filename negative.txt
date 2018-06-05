@@ -5,16 +5,11 @@ acak-acakan
 acuh
 acuh tak acuh
 adiktif
-adil
 agresi
 agresif
 agresor
 aib
-air terjun
-akurat
-alarm
 alasan
-alat permainan
 alergi
 alergik
 amat ketakutan
@@ -33,7 +28,6 @@ anarkis
 anarkisme
 ancaman
 aneh
-aneh lagi
 anehnya
 angkuh
 angriness
@@ -44,13 +38,9 @@ antagonis
 antagonisme
 antek
 anti-
-anti-Amerika
-anti-Israel
 anti-kita
 anti-pendudukan
 anti-proliferasi
-anti-putih
-anti-Semit
 antipati
 antisosial
 antitesis
@@ -59,16 +49,13 @@ apati
 apatis
 apek
 apokaliptik
-apologis
 argumentatif
-artinya jika
 asam
 asap
 asem
 asing
 astaghfirullah
 asusila
-awan
 awas
 babi
 badai
@@ -81,7 +68,6 @@ bandel
 bandot
 bangkrut
 bantingan
-banyak sekali
 barang ganjil
 barbar
 basi
@@ -100,7 +86,6 @@ belum dicoba
 belum dikonfirmasi
 belum pasti
 belum selesai
-benar-benar
 bencana
 bencana alam
 benci
@@ -115,7 +100,6 @@ beracun
 beradab
 berakhir
 berang
-berani
 berantakan
 berat
 berat sebelah
@@ -134,7 +118,6 @@ bercacat
 berdalih
 berdarah
 berdasar
-berdaya
 berdebar
 berdebat
 berdebu
@@ -144,17 +127,14 @@ berdenyut-denyut
 berderak
 berderit
 berdetak
-berdokumen
 berdosa
 berduka
 berduri
 berdusta
 berebut
 bergairah
-bergegas
 bergelombang
 bergeming
-bergerak
 bergerak lambat
 bergerigi
 bergetar
@@ -164,24 +144,19 @@ berhaluan kiri
 berisiko
 berita palsu
 berjangkit
-berjuang
 berkarat
 berkata tanpa berpikir
-berkedip
 berkejut
-berkenan
 berkeping-keping
 berkeras pendirian
 berkeringat
 berkerut
 berkhayal
 berkilat
-berkilau
 berkolusi
 berkonflik
 berkubang
 berkurang
-berlangganan
 berlebihan
 berlemak
 berlengah-lengah
@@ -191,7 +166,6 @@ berlumpur
 bermain berlebih-lebihan
 bermasalah
 berminyak
-bermoral
 bermuka dua
 bermuram
 bermuram durja
@@ -205,18 +179,14 @@ berpura-pura
 berputus asa
 bersaing
 bersakit
-bersanding
 bersedih
 bersekongkol
 berselang
 berselisih
-bersemangat
-bersenandung
 berserakan
 bersetubuh
 bersisik
 bertele-tele
-bertemu
 bertengkar
 bertentangan
 berteriak
@@ -235,7 +205,6 @@ bikinan
 bimbang
 binasa
 bingung
-Bingung
 bisa ular
 bising
 blunder
@@ -271,7 +240,6 @@ cacian
 calo
 cambuk
 canggung
-cara
 cari perkara
 carut-marut
 cebol
@@ -295,7 +263,6 @@ cerewet
 ceroboh
 compang-camping
 corengan
-cukup
 curam
 curang
 curiga
@@ -340,35 +307,26 @@ diam-diam
 dibakar
 dibanjiri
 dibantai
-dibenarkan
 dibenci
 dibesar-besarkan
 dibuang
 dibuat-buat
 dicela
 dicerca
-dicuci
 dicuri
-didanai
 diganggu
-dihaluskan
 dihentikan
-dihibur
 dihukum
 dijauhi
-dijelaskan
 dikaburkan
 dikenakan
 dikorbankan
 diktator
 diktatoris
-dilapisi gula
 dilecehkan
 dilema
 dilenyapkan
-dimaafkan
 dimarahi
-dimengerti
 dingin
 diperangi
 diperkosa
@@ -383,7 +341,6 @@ disalahgunakan
 disalahpahami
 disayangkan
 disebut-sebut
-disederhanakan
 disengaja
 disengketakan
 disiram
@@ -393,12 +350,10 @@ diskriminatif
 disorient
 disproporsional
 distorsi
-ditakdirkan
 ditinggalkan
 ditipu
 ditolak
 dogmatis
-dominan
 dongkol
 dosa
 downgrade
@@ -424,7 +379,6 @@ egomania
 egosentris
 ejek
 ejekan
-ekonomis
 eksploitasi
 eksploitatif
 eksplosif
@@ -435,7 +389,6 @@ erosi
 fana
 fanatik
 fanatisme
-fantastis
 fasis
 fasisme
 fatal
@@ -472,7 +425,6 @@ Gejala
 gelandangan
 gelap
 gelisah
-gelora
 gembar-gembor
 gendut
 genit
@@ -485,25 +437,19 @@ gesekan
 gesper
 getah
 getaran
-giat
-gigih
 gigil
 gila
 gila hormat
 gila ketakutan
 gila-gilaan
 godaan
-goreng
 goresan
 gosip
 goyah
 goyangan
-gua
 gugup
-gurun
 gusar
 habis
-hak milik
 hal merendahkan diri
 hal tidak dimengerti
 halangan
@@ -571,9 +517,7 @@ ironi
 ironis
 ironisnya
 isolasi
-istirahat
 isu
-jadah
 jahanam
 jahat
 jalan buntu
@@ -618,7 +562,6 @@ kandas
 kanibal
 kanker
 kantong sampah
-kapak
 kapalan
 karat
 kasar
@@ -637,9 +580,7 @@ kebencian
 keberanian
 keberatan
 keberbahayaan
-kebetulan
 kebiadaban
-kebiasaan
 kebingungan
 KEBINGUNGAN
 kebiri
@@ -734,7 +675,6 @@ kelas dua
 kelelahan
 kelemahan
 kelemahan karena usia tua
-kelembutan
 kelesuan
 keletihan
 keliru
@@ -770,14 +710,12 @@ kepala-sakit
 kepatahan
 kepedaran
 kependekan
-kepentingan
 kepentingan diri sendiri
 kepicikan
 keputusasaan
 keputusasan
 keracunan
 keraguan
-kerangka
 keras
 keras hati
 keras kepala
@@ -786,9 +724,7 @@ kerasnya
 kerdil
 kere
 kerepotan
-kereta
 keretakan
-keriangan
 keributan
 kerinduan
 kering
@@ -807,17 +743,14 @@ kesalahan
 kesalahan besar
 kesalahan hitung
 kesalahpahaman
-kesamaan
 kesedihan
 keseganan
-kesegeraan
 kesembronoan
 kesendirian
 kesengitan
 kesengsaraan
 kesepian
 keserakahan
-keseriusan
 kesesakan
 kesilauan
 kesombongan
@@ -830,7 +763,6 @@ ketakutan
 ketamakan
 ketat
 ketegangan
-ketenangan
 keterbatasan
 keterbelakangan
 keterlaluan
@@ -881,7 +813,6 @@ ketidaktulusan
 ketinggalan
 ketukan
 ketus
-kewajiban
 kewalahan
 kezaliman
 khawatir
@@ -889,17 +820,13 @@ khayalan
 khayalan belaka
 khayali
 khianat
-khusus
 kiamat
 kikir
 kikuk
-kios
 kisi
 klik
 klise
-knalpot
 kolot
-kompatibel
 kompleks
 komplikasi
 komplotan
@@ -907,7 +834,6 @@ kompong
 konflik
 konfrontasi
 kongkalikong
-konservatif
 konsesi
 konspirasi
 konspiratif
@@ -937,12 +863,10 @@ kritik
 kritikus
 kritis
 kronis
-kuat
 kuatir
 kucam
 kucing gemuk
 kudung
-kukuh
 kuning
 kuno
 kupas
@@ -961,7 +885,6 @@ kurus
 kusut
 kutukan
 labil
-labu
 lacur
 lalai
 lalim
@@ -969,7 +892,6 @@ lama
 lamban
 lambat
 lancang
-lancar
 lapis kedua
 lapuk
 larangan
@@ -996,7 +918,6 @@ lembab
 lembek
 lemot
 lendir
-lengkap
 lengket
 lepas
 lereng
@@ -1011,10 +932,7 @@ limbah
 limbung
 linglung
 lintah
-lirik
 longgar
-luah
-luar biasa
 lubang angin
 lucu
 luka
@@ -1062,7 +980,6 @@ megap-megap
 melalaikan
 melambat
 melampiaskan
-melancarkan
 melanggar
 melanggar hukum
 melanggar susila
@@ -1200,7 +1117,6 @@ memukul mundur
 memuntahkan
 memurahkan
 memusnahkan
-memutar
 memutarbalikkan
 memutuskan
 menabrak
@@ -1208,13 +1124,11 @@ menahan
 menakuti
 menakutkan
 menampar
-menanamkan
 menangis
 menarik diri
 menarik kembali
 menarik perhatian
 menaruh simpati
-menasihati
 mencabut
 mencabut perlindungan hukum
 mencaci
@@ -1229,7 +1143,6 @@ mencemaskan
 mencemoohkan
 mencibir
 mencicit
-mencium
 menciut-ciut
 mencla-mencle
 mencolok
@@ -1240,7 +1153,6 @@ mencuri
 mencurigakan
 mendadak
 mendakwa
-mendatang
 mendatangkan
 mendeklamasikan
 menderita
@@ -1378,7 +1290,6 @@ menguasai
 mengumpat
 mengumumkan kekurangan
 mengundurkan diri
-menguntungkan
 mengurangi
 menguras
 mengusir
@@ -1386,18 +1297,15 @@ mengutuk
 Mengutuk
 meniadakan
 menidurkan
-menimbulkan
 menimbulkan kebencian
 menimpa
 menindas
 meninggal
 meninggal dunia
 meninggalkan
-meningkat
 meninju
 menipu
 menitis
-menjadi kaya
 menjadi terlalu panas
 menjarah
 menjatuhkan
@@ -1413,7 +1321,6 @@ menjiplak tulisan
 menodai
 menohok
 menolak
-menonjol
 mentah
 menuduh
 menumbangkan
@@ -1430,21 +1337,17 @@ menutup jalan
 menyaingi
 menyakiti
 menyakitkan
-menyala
 menyalahgunakan
 menyalahkan
 menyangkal
 menyangsikan
-menyapa
 menyayangkan
 menyayat
 menyayat hati
 menyebalkan
-menyederhanakan
 menyedihkan
 menyelinap
 menyembunyikan
-menyenangkan
 menyengat
 menyentakkan
 menyerah
@@ -1481,15 +1384,12 @@ merana
 merancang
 merangsang
 merasa jijik
-merata
 meratap
 meratapi
-meraup
 merayap
 merebut
 meremas
 meremehkan
-merencanakan
 merendahkan
 merendahkan martabat
 merengek
@@ -1509,7 +1409,6 @@ merusak akhlak
 merusak bentuk
 merusakkan
 mewah
-meyakinkan
 mimpi buruk
 miring
 misinformasi
@@ -1525,7 +1424,6 @@ mudah tertipu
 multi-polarisasi
 munafik
 mundur
-mungil
 mungkin
 mungkir
 muntah
@@ -1548,7 +1446,6 @@ nakal
 ndeso
 negatif
 nekat
-nenek
 nepotisme
 neraka
 neurotik
@@ -1559,7 +1456,6 @@ ngeri
 ngobrol
 ngomel
 noda
-noda-noda
 non-aktif
 non-keyakinan
 nyaring
@@ -1568,9 +1464,7 @@ nyeri
 nyinyir
 nyonya
 obat bius
-obrolan
 obsesif
-obyek
 ocehan
 ogah-ogahan
 omelan
@@ -1599,16 +1493,11 @@ padat
 pagar
 pahit
 paksaan
-paling aneh
-paling kejam
-paling lambat
-paling menakutkan
 palsu
 panas
 panci
 pandangan marah
-pandangan yg menghinakan
-panggilan
+pandangan yang menghinakan
 panggilan dari pengadilan
 panik
 panjang
@@ -1624,14 +1513,10 @@ parodi
 partisan
 pasif
 pasrah
-pasti
 patah
 patah hati
-patuh
 patung
-payudara
 pecah
-pecahnya
 pecandu
 pecundang
 pedas
@@ -1665,7 +1550,6 @@ pembantaian
 pembatalan
 pembaur
 pembekuan
-pembela
 pembenci
 pembengkakan
 pemberang
@@ -1678,7 +1562,6 @@ pembual
 pembuangan
 pembuatan
 pembubaran
-pembukaan lagu
 pembunuh
 pembunuhan
 pembunuhan besar-besaran
@@ -1702,7 +1585,6 @@ pencegah
 pencemar
 pencemas
 pencurian
-pendapat
 pendendam
 penderita
 penderitaan
@@ -1736,7 +1618,6 @@ penghujatan
 penghukuman
 pengingatan
 pengingkaran
-pengiring jenazah
 pengkhianat
 pengkhianatan
 pengkritik
@@ -1755,7 +1636,6 @@ penjara
 penjara gelap bawah tanah
 penjarah
 penolakan
-penuh
 penuh benci
 penuh celaan
 penuh curiga
@@ -1764,7 +1644,6 @@ penuh sesal
 penumpasan
 penundaan
 penurunan
-penurut
 penyadap
 penyakit
 penyakit gila
@@ -1805,15 +1684,12 @@ pergolakan
 perhatian
 perih sekali
 peringatan
-perjuangan
 perkelahian
 perlakuan kejam
 perlawanan
 perlu
-permohonan
 permusuhan
 perpecahan
-persahabatan
 persaingan
 perselisihan
 pertempuran
@@ -1828,8 +1704,6 @@ perusak
 pesimis
 pesimisme
 pesimistis
-pesta
-pesta besar
 pesuruh
 petualangan
 PHK
@@ -1925,7 +1799,6 @@ rumor
 runtuh
 rusak
 rusuh
-sabar
 sabotase
 sakit
 sakit dirancang
@@ -1939,9 +1812,7 @@ sakit-digunakan
 sakit-dipahami
 sakit-penggunaan
 sakitan
-sakitnya tuh disini
 salah
-Salah
 salah baca
 salah hitung
 salah informasi
@@ -1956,7 +1827,6 @@ salah paham
 salah pikiran
 salah saji
 salju longsor
-saluran air
 sama sekali
 samar
 samaran
@@ -1965,11 +1835,9 @@ sampah
 sandal bakiak
 sandera
 sangat
-sangat efektif
 sangat jahat
 sangat lapar
 sangat marah
-sangat menakjubkan
 sangat sedikit
 sanggahan
 sarkasme
@@ -1977,18 +1845,13 @@ sarkastik
 saru
 satir
 satiris
-sayangnya
 sebelum waktunya
-sedang saja
 sederhana
 sedih
 sedikit
 segan
-segera
-sejajar
 selai
 selang
-selendang
 selingan
 selokan
 sembarangan
@@ -2017,14 +1880,12 @@ serong
 sesat
 setan
 setengah hati
-setia
 sewenang-wenang
 shamefulness
 shamelessness
 sia-sia
 sial
 sialan
-sikap
 siksaan
 sindiran
 sindroma
@@ -2032,12 +1893,10 @@ singkat
 sinis
 sinisme
 sinting
-siput
 sirep
 sisa-sisa
 sisi bawah
 sisi buta
-siuman
 skandal
 skeptis
 sobek
@@ -2117,7 +1976,6 @@ takut
 tamak
 tamparan
 tandus
-tangki
 tanpa
 tanpa alasan
 tanpa ampun
@@ -2167,7 +2025,6 @@ terbelakang
 terbodoh
 terbuang
 terbujuk
-terbukti
 terbunuh
 terburu nafsu
 terburuk
