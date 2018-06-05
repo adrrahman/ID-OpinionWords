@@ -1762,11 +1762,9 @@ rasa tidak enak
 rasis
 rasisme
 reaksioner
-realistis
 rebusan
 redundansi
 redup
-relevan
 remang
 remang-remang
 remeh
@@ -2033,7 +2031,6 @@ tercemar
 terdefinisi
 terdelusi
 terduga
-terencana
 terfragmentasi
 tergagap
 terganggu
